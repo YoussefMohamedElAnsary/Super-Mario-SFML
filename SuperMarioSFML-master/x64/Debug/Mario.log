@@ -1,0 +1,44 @@
+﻿  Source.cpp
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(421,39): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(441,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(450,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,32): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,83): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,130): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,174): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,218): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(566,263): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(666,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(793,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(797,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(1376,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Moka\source\repos\Mario\Mario\Source.cpp(1376,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mario.vcxproj -> C:\Users\Moka\source\repos\Mario\x64\Debug\Mario.exe
